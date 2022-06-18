@@ -1,6 +1,6 @@
 # Ukrainian branch of Rust Community
 
-![learn rust together](https://raw.githubusercontent.com/Learn-Together-Pro/LearnRustTogether/a393b96375c534418d12c47230b05d1fef9a8fc7/asset/logo/Collage_2.jpg)
+![learn rust together](https://raw.githubusercontent.com/rust-lang-ua/learn_rust_together/59713d4ae68edc4aa1447a1194f772adb4cecde0/asset/logo/Collage_2.jpg)
 
 ## Who are we?
 We are a Ukrainian branch of the Rust community.
