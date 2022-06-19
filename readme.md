@@ -13,20 +13,20 @@ Rust is a multi-paradigm programming language designed for performance and safet
 ## What are our aims?
 We strive to provide all members with the space to build trusting professional relationships in an informal way by providing support and encouragement to develop professional skills..
 These are the core values of our organization:
-- passion to learn and share knowledge
-- openness to listen to alternative points of view
-- cultivation of Open Source culture
-- fostering a friendly attitude towards each other
-- promoting Rust in Ukraine
+
+- **mutual assistance**
+- **openness to** listen to alternative points of view
+- cultivation of **Open Source** culture
+- fostering a **friendly attitude** towards each other
 
 ## What can we gain from joining your community?
 As a member of  our community, you can:
-- participate in workshops on Rust projects 
+- participate in workshops on Rust projects
 - engage in a friendly debate with other Rust enthusiasts in our chat
 - share ideas and experiences during our weekly Rust online meetings
 - find like-minded people and develop common interests together
 - get the latest news about Rust
-- have a good time in informal meetings for our members 
+- have a good time in informal meetings for our members
 
 ## FAQ
 - _Is the community for beginners only?_ <br/>
@@ -59,14 +59,16 @@ Please contact [me](https://t.me/wandalen_me) on Telegram if you wish to: help w
 ## Join
 Come join our friendly community!<br/>
 💬 Join our [Telegram-Chat](https://t.me/rustlang_ua) and [Telegram-Channel](https://t.me/learn_rust_ukr). <br/>
-📖 Our collection of materials to master Rust are [here](https://github.com/Learn-Together-Pro/LearnRustTogether). <br/>
+📖 Resources we recommend are [here](https://github.com/rust-lang-ua/learn_rust_together). <br/>
 
 You may also follow us on these platforms:
-[Twitter](https://twitter.com/LearnTogetherP)  | [Facebook](https://www.facebook.com/learntogetherpro) |
+[Twitter](https://twitter.com/LearnTogetherP)  |
+[Facebook](https://www.facebook.com/learntogetherpro) |
 [Linkedin](https://www.linkedin.com/company/learn-together-pro) |
 [GitHub](https://github.com/rust-lang-ua) |
 [Discord](https://discord.com/invite/JVCZfTVf5A) |
 [Reddit](https://www.reddit.com/r/rustlang_ua/) |
-[Telegram](https://t.me/rustlang_ua) |<br/>
+[Telegram](https://t.me/rustlang_ua) |
+<br/>
 
 Let’s Learn Rust 🦀 Together!
